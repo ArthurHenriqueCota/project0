@@ -1,0 +1,12 @@
+/* line 1, Style.scss */
+h1 {
+  color: red;
+  padding: 30px;
+}
+
+/* line 5, Style.scss */
+p {
+  color: blue;
+  padding: 30px;
+  background-color: coral;
+}
