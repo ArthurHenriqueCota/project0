@@ -7,6 +7,7 @@ h1 {
 /* line 5, Style.scss */
 p {
   color: blue;
+  margin: 30px;
   padding: 30px;
   background-position-x: center;
   background-color: coral;
