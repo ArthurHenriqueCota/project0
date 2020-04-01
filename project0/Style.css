@@ -14,14 +14,14 @@ p {
 }
 
 /* line 12, Style.scss */
-ol #Spells {
+#Spells {
   color: red;
   background-color: lightblue;
   margin: 30px;
   padding: 20px;
 }
 /* line 17, Style.scss */
-ol #Spells li {
+#Spells li {
   color: blue;
   background-color: lightgreen;
   margin: 10px;
