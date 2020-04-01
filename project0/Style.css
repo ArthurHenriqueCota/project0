@@ -12,3 +12,17 @@ p {
   background-position-x: center;
   background-color: coral;
 }
+
+/* line 12, Style.scss */
+ol #Spells {
+  color: red;
+  background-color: lightblue;
+  margin: 30px;
+  padding: 20px;
+}
+/* line 17, Style.scss */
+ol #Spells li {
+  color: blue;
+  background-color: lightgreen;
+  margin: 10px;
+}
