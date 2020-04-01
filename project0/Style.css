@@ -8,5 +8,6 @@ h1 {
 p {
   color: blue;
   padding: 30px;
+  background-position-x: center;
   background-color: coral;
 }
