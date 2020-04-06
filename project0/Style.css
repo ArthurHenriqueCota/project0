@@ -54,4 +54,10 @@ table #Global {
 .important {
   background-color: limegreen;
   background-size: auto;
+  margin-right: 30px;
+}
+
+/* line 47, Style.scss */
+ol {
+  margin-left: 20px;
 }
