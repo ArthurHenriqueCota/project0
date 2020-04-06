@@ -41,23 +41,31 @@ table {
   margin: 30px;
   padding: 10px;
   background-color: lightblue;
-  border-color: black;
+  border-style: solid;
   border: black;
   border-collapse: collapse;
 }
 /* line 38, Style.scss */
+table tr {
+  padding: 5px;
+}
+/* line 40, Style.scss */
+table tr td {
+  padding: 10px;
+}
+/* line 44, Style.scss */
 table #Global {
   color: blue;
 }
 
-/* line 42, Style.scss */
+/* line 48, Style.scss */
 .important {
   background-color: limegreen;
   background-size: auto;
   margin-right: 30px;
 }
 
-/* line 47, Style.scss */
+/* line 53, Style.scss */
 ol {
   margin-left: 20px;
 }
