@@ -32,11 +32,12 @@ table{
   margin: 30px;
   padding: 10px;
   background-color: lightblue;
-  border-style: solid;
-  border: black;
-  border-collapse: collapse;
+
   tr{
     padding: 5px;
+    border-style: solid;
+    border: black;
+    border-collapse: collapse;
     td{
       padding: 10px;
     }
@@ -57,4 +58,3 @@ img{
   margin: 30px;
   size: 420px;
 }
-
