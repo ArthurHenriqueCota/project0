@@ -42,7 +42,7 @@ table {
   padding: 10px;
   background-color: lightblue;
   border-style: solid;
-  border: black;
+  border: 1px, solid, black;
   border-collapse: collapse;
 }
 /* line 38, Style.scss */
